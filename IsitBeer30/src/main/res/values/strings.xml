@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Is it Beer:30?</string>
+    <string name="no">NO</string>
+    <string name="yep">YEP</string>
+    <string name="almost">ALMOST</string>
+
+</resources>
